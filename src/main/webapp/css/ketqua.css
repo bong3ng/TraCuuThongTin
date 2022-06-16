@@ -1,0 +1,22 @@
+*{
+    font-size: 24px;
+    box-sizing: border-box;
+    margin: 0;
+}
+table, tr, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+h1{
+    font-size: 3rem;
+    text-align: center;
+    margin-top: 100px;
+    margin-bottom: 100px
+}
+
+.form{
+	width: 500px;
+    height: 200px;
+    margin: auto;
+}
+
